@@ -2,8 +2,8 @@
 This is a capstone project for Django development. The goal was to create a social platform with different privilegies 
 
 ## We are first greated with the login/sign up page
-![](./images/login.jpg)
-![](./images/signup.jpg)
+![](./images/login.jpg/)
+![](./images/signup.jpg/)
 
 Where we can both create new accounts and login with existing accounts.
 
