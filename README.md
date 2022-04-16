@@ -22,6 +22,13 @@ And add it to the second group.
 ![](./images/post_add.jpg)
 
 ## URL manipulation
-THe URL:s are descriptive of what page you're on
+THe URL:s are descriptive of what page you're on.
 
 ![](./images/url.jpg)
+
+## Admin page
+An admin page is available for administrative use.
+
+![](./images/admin.jpg)
+
+
