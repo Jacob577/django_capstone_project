@@ -24,9 +24,9 @@ And add it to the second group.
 ## URL manipulation
 THe URL:s are descriptive of what page you're on.
 
-![](./images/url.jpg)
+![](./images/url.JPG)
 
 ## Admin page
 An admin page is available for administrative use.
 
-![](./images/admin.jpg)
+![](./images/admin.JPG)
