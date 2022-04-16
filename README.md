@@ -30,9 +30,3 @@ THe URL:s are descriptive of what page you're on.
 An admin page is available for administrative use.
 
 ![](./images/admin.jpg)
-
-
-<<<<<<< HEAD
-=======
-![](./images/url.JPG)
->>>>>>> 1e7fcd138e36ba90d90aec662fdaa9c3293d3441
